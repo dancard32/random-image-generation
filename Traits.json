@@ -1,0 +1,18 @@
+{
+    "Layer_1": {
+        "Option1": 0.5,
+        "Option2": 0.5
+    },
+    "Layer_2": {
+        "Option1": 0.5,
+        "Option2": 0.5
+    },
+    "Layer_3": {
+        "Option1": 0.5,
+        "Option2": 0.5
+    },
+    "Layer_4": {
+        "Option1": 0.5,
+        "Option2": 0.5
+    }
+}
